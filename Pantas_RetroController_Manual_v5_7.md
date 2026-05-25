@@ -118,7 +118,6 @@
 | SE + R2 | 显示帧数 |
 | SE + B | 呼出菜单 |
 | SE + ST | 退出游戏 |
-| SE + 音量 +/- | 亮度调节 |
 
 ### PSP（PPSSPP）
 
@@ -127,7 +126,6 @@
 | HOME | 呼出 PPSSPP 菜单 |
 | 长按 HOME 3 秒 | 返回主菜单 |
 | HOME + ST | 退出游戏 |
-| HOME + 音量 +/- | 亮度调节 |
 
 ### NDS（DraStic）
 
